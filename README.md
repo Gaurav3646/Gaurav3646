@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Verma</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91468455/230662215-7e6ef3f9-3a4f-4f47-9081-2bcf974d8e5e.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/91468455/230662215-7e6ef3f9-3a4f-4f47-9081-2bcf974d8e5e.gif">
 - 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **react, firebase & DSA**
