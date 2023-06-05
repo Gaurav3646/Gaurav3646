@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **gauravverma3646@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BXIDgZcR7zUqY_qCzCun4X08IhlY7_lY/view?usp=drivesdk](https://drive.google.com/file/d/1BXIDgZcR7zUqY_qCzCun4X08IhlY7_lY/view?usp=drivesdk)
+- 📄 Know about my experiences([https://drive.google.com/file/d/1WRrR-J-a7h166kTZhQdMCpHtkIS0wEk4/view?usp=drive_link](https://drive.google.com/file/d/1WRrR-J-a7h166kTZhQdMCpHtkIS0wEk4/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
